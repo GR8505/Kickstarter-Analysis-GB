@@ -26,7 +26,18 @@ Performing Excel analysis on kickstarter spreadsheet
   
 - Created BoxPlot for UK Musicals for Fundraising Goal and Amount Pledged
 
-![](
+![](https://github.com/GR8505/Kickstarter-Analysis-GB/blob/master/UKMusicalsGoalandPledged.png)
+
+
+## Kickstarter Part 2
+
+- Demonstrated ability in using formulas to compute:
+  - Measures of Central Tendency
+  - Distribution of Data
+  
+  
+![Descriptive Statistics](
+
 
 
 

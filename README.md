@@ -36,7 +36,11 @@ Performing Excel analysis on kickstarter spreadsheet
   - Distribution of Data
   
   
-![Descriptive Statistics](
+![](https://github.com/GR8505/Kickstarter-Analysis-GB/blob/master/DescriptiveStatistics.png)
+
+
+
+
 
 
 

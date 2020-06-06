@@ -69,6 +69,9 @@ Louise’s play Fever came close came close to its fundraising goal in a short a
 * Median = 30
 * Mode = 30
 
+- Therefore, length of campaign tells us little.
+- Probably, the launch date may be more insightful.
+
 
 
 

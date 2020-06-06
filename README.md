@@ -55,6 +55,10 @@ Louise’s play Fever came close came close to its fundraising goal in a short a
 - The distribution of Failed and Successful theater Kickstarter campaigns by length of campaign are similar.
 
 
+![](https://github.com/GR8505/Kickstarter-Analysis-GB/blob/master/SuccessfulbyLengthofCampaign.png)
+
+
+
 
 
 

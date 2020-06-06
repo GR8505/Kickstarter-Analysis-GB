@@ -73,6 +73,19 @@ Louise’s play Fever came close came close to its fundraising goal in a short a
 - Probably, the launch date may be more insightful.
 
 
+![](https://github.com/GR8505/Kickstarter-Analysis-GB/blob/master/OutcomesBasedonLaunchDatePNG.png)
+
+
+- From this chart, we can see that campaigns launched in the month of May tend to do better, with the highest success rate of 66.9 percent. The months of June (65.4 percent) and July (63 percent) are the second and third most successful months, which is clear indication that theater Kickstarter campaigns do well when launched during the summer.
+
+
+- On the other hand, launching a campaign in the months of August, October and December are not encouraged, as they have the highest failure rates of 38.2 percent, 43.5 percent and 46.7 percent, respectively.
+
+
+
+- Looking at how the goal affects the success rate of a Kickstarter campaign.
+
+
 
 
 

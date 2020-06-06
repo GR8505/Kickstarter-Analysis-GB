@@ -57,6 +57,11 @@ Louise’s play Fever came close came close to its fundraising goal in a short a
 
 ![](https://github.com/GR8505/Kickstarter-Analysis-GB/blob/master/SuccessfulbyLengthofCampaign.png)
 
+![](https://github.com/GR8505/Kickstarter-Analysis-GB/blob/master/FailedbyLengthofCampaign.png)
+
+
+- The reason for this is simple.  In analyzing the measures of central tendency for the variable length of campaign, we realize that the mean, mode and median are very close, so most campaigns run for approximately 30 days.
+
 
 
 

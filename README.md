@@ -42,6 +42,20 @@ Performing Excel analysis on kickstarter spreadsheet
 
 
 
+### Challenge
+
+Louise’s play Fever came close came close to its fundraising goal in a short amount of time. How many other Kickstarter campaigns were able to do this as well? In this challenge, you’ll conduct a data analysis to answer this question and determine whether the length of a campaign contributes to its ultimate success or failure.
+
+
+### Analysis
+
+- Louise’s play Fever achieved 86 percent of its fundraising goal during a 28-day campaign, which commenced on June 13, 2016 and ended on July 11, 2016.
+- Out of the 1,393 theater Kickstarter campaigns, only 42 had a 28-day campaign of which, 71 percent reached their fundraising goal and the remaining 29 percent failed.
+- However, looking at length of a campaign to determine the success of theater campaigns provide little insight.
+- The distribution of Failed and Successful theater Kickstarter campaigns by length of campaign are similar.
+
+
+
 
 
 

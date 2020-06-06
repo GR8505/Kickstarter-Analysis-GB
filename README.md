@@ -6,7 +6,8 @@ Performing Excel analysis on kickstarter spreadsheet
 - Created Pivot Table with Kickstarter spreadsheet
 - Created stacked bar-chart to illustrate the Outcomes of all Parent Categories
 
-![](PicturePNG.png)
+![](Kickstarter-Analysis-GB/PicturePNG.png)
+
 
 
 

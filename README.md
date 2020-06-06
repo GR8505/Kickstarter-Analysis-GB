@@ -86,6 +86,20 @@ Louise’s play Fever came close came close to its fundraising goal in a short a
 - Looking at how the goal affects the success rate of a Kickstarter campaign.
 
 
+![](https://github.com/GR8505/Kickstarter-Analysis-GB/blob/master/OutcomesBasedonGoalsPNG.png)
+
+
+- Based on this chart we can see that a campaign has a higher probability of being successful if:
+1. Fundraising Goal < $20,000
+2. $35,000 < Fundraising Goal < $45,000
+
+
+**Conclusion**
+- Given that Louise launched her campaign in the month of June (during the summer) with a fundraising goal of $2,885 (which was LESS than $20,000), we suggest the following:
+1. Launch the campaign in May (which has the highest success rate for theater)
+2. Maintain the fundraising goal at $2,885
+
+
 
 
 
